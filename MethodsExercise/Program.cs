@@ -10,11 +10,11 @@
             string favoriteBand = askFavoriteBand();
             TellStory(name, favoriteColor, favoriteAnimal, favoriteBand);
 
-            Console.WriteLine("6 + 2 = " + Add(4,2));
-            Console.WriteLine("6 - 2 = " + Subtract(4, 2));
-            Console.WriteLine("6 * 2 = " + Multiply(4, 2));
-            Console.WriteLine("6 / 2 = " + Divide(4, 2));
-            Console.WriteLine("6 % 2 = " + Modulus(4, 2));
+            Console.WriteLine("6 + 2 = " + Add(6,2));
+            Console.WriteLine("6 - 2 = " + Subtract(6, 2));
+            Console.WriteLine("6 * 2 = " + Multiply(6, 2));
+            Console.WriteLine("6 / 2 = " + Divide(6, 2));
+            Console.WriteLine("6 % 2 = " + Modulus(6, 2));
 
             //Bonus Addition
             Console.WriteLine("1 + 2 + 3 + 4 + 5 " +
